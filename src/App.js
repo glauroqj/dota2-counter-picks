@@ -11,3 +11,7 @@ const App = () => {
 }
 
 export default App
+
+/**
+ * DOC: https://liquipedia.net/dota2/MediaWiki:Dota2webapi-heroes.json
+ */

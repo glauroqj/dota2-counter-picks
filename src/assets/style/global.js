@@ -9,6 +9,7 @@ const GlobalStyle = createGlobalStyle`
       font-family: 'Baloo Da 2', cursive;
       margin: 0;
       padding: 0;
+      background-color: #323232;
     }
     a {
       text-decoration: none;
