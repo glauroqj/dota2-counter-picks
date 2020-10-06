@@ -1,0 +1,5417 @@
+{
+  "skilllevels": [
+    "Very High",
+    "High",
+    "Normal"
+  ],
+  "heronames": [
+    "Abaddon",
+    "Alchemist",
+    "Ancient Apparition",
+    "Anti-Mage",
+    "Axe",
+    "Bane",
+    "Batrider",
+    "Beastmaster",
+    "Bloodseeker",
+    "Bounty Hunter",
+    "Brewmaster",
+    "Bristleback",
+    "Broodmother",
+    "Centaur Warrunner",
+    "Chaos Knight",
+    "Chen",
+    "Clinkz",
+    "Clockwerk",
+    "Crystal Maiden",
+    "Dark Seer",
+    "Dazzle",
+    "Death Prophet",
+    "Disruptor",
+    "Doom",
+    "Dragon Knight",
+    "Drow Ranger",
+    "Earthshaker",
+    "Earth Spirit",
+    "Elder Titan",
+    "Ember Spirit",
+    "Enchantress",
+    "Enigma",
+    "Faceless Void",
+    "Gyrocopter",
+    "Huskar",
+    "Invoker",
+    "Io",
+    "Jakiro",
+    "Juggernaut",
+    "Keeper of the Light",
+    "Kunkka",
+    "Legion Commander",
+    "Leshrac",
+    "Lich",
+    "Lifestealer",
+    "Lina",
+    "Lion",
+    "Lone Druid",
+    "Luna",
+    "Lycan",
+    "Magnus",
+    "Medusa",
+    "Meepo",
+    "Mirana",
+    "Morphling",
+    "Naga Siren",
+    "Natures Prophet",
+    "Necrophos",
+    "Night Stalker",
+    "Nyx Assassin",
+    "Ogre Magi",
+    "Omniknight",
+    "Outworld Devourer",
+    "Phantom Assassin",
+    "Phantom Lancer",
+    "Phoenix",
+    "Puck",
+    "Pudge",
+    "Pugna",
+    "Queen of Pain",
+    "Razor",
+    "Riki",
+    "Rubick",
+    "Sand King",
+    "Shadow Demon",
+    "Shadow Fiend",
+    "Shadow Shaman",
+    "Silencer",
+    "Skywrath Mage",
+    "Slardar",
+    "Slark",
+    "Sniper",
+    "Spectre",
+    "Spirit Breaker",
+    "Storm Spirit",
+    "Sven",
+    "Techies",
+    "Templar Assassin",
+    "Terrorblade",
+    "Tidehunter",
+    "Timbersaw",
+    "Tinker",
+    "Tiny",
+    "Treant Protector",
+    "Troll Warlord",
+    "Tusk",
+    "Undying",
+    "Ursa",
+    "Vengeful Spirit",
+    "Venomancer",
+    "Viper",
+    "Visage",
+    "Warlock",
+    "Weaver",
+    "Windranger",
+    "Witch Doctor",
+    "Wraith King",
+    "Zeus",
+    "Oracle",
+    "Winter Wyvern",
+    "Arc Warden",
+    "Underlord",
+    "Monkey King",
+    "Pangolier",
+    "Dark Willow",
+    "Grimstroke",
+    "Mars",
+    "Void Spirit",
+    "Snapfire"
+  ],
+  "cmunavailable": {
+    "Io": true,
+    "Mars": true
+  },
+  "sprites": {
+    "heroeslarge": {
+      "img": "https://dotapicker.comhttps://dotapicker.com/assets/img/sprites/heroeslarge.jpg",
+      "width": 256,
+      "height": 144,
+      "widthtotal": 2560,
+      "heighttotal": 1728
+    }
+  },
+  "images": {
+    "Abaddon": {
+      "img": "https://dotapicker.com/assets/img/heroes/abaddon.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/abaddon.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/abaddon.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/abaddon_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "Alchemist": {
+      "img": "https://dotapicker.com/assets/img/heroes/alchemist.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/alchemist.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/alchemist.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/alchemist_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": 0
+      }
+    },
+    "Ancient Apparition": {
+      "img": "https://dotapicker.com/assets/img/heroes/ancient_apparition.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/ancient_apparition.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/ancient_apparition.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/ancient_apparition_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": 0
+      }
+    },
+    "Anti-Mage": {
+      "img": "https://dotapicker.com/assets/img/heroes/anti_mage.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/anti_mage.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/anti_mage.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/anti-mage_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": 0
+      }
+    },
+    "Axe": {
+      "img": "https://dotapicker.com/assets/img/heroes/axe.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/axe.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/axe.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/axe_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": 0
+      }
+    },
+    "Bane": {
+      "img": "https://dotapicker.com/assets/img/heroes/bane.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/bane.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/bane.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/bane_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": 0
+      }
+    },
+    "Batrider": {
+      "img": "https://dotapicker.com/assets/img/heroes/batrider.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/batrider.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/batrider.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/batrider_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": 0
+      }
+    },
+    "Beastmaster": {
+      "img": "https://dotapicker.com/assets/img/heroes/beastmaster.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/beastmaster.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/beastmaster.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/beastmaster_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": 0
+      }
+    },
+    "Bloodseeker": {
+      "img": "https://dotapicker.com/assets/img/heroes/bloodseeker.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/bloodseeker.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/bloodseeker.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/bloodseeker_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -144
+      }
+    },
+    "Bounty Hunter": {
+      "img": "https://dotapicker.com/assets/img/heroes/bounty_hunter.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/bounty_hunter.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/bounty_hunter.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/bounty_hunter_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -144
+      }
+    },
+    "Brewmaster": {
+      "img": "https://dotapicker.com/assets/img/heroes/brewmaster.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/brewmaster.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/brewmaster.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/brewmaster_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -144
+      }
+    },
+    "Bristleback": {
+      "img": "https://dotapicker.com/assets/img/heroes/bristleback.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/bristleback.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/bristleback.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/bristleback_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -144
+      }
+    },
+    "Broodmother": {
+      "img": "https://dotapicker.com/assets/img/heroes/broodmother.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/broodmother.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/broodmother.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/broodmother_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -144
+      }
+    },
+    "Centaur Warrunner": {
+      "img": "https://dotapicker.com/assets/img/heroes/centaur_warrunner.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/centaur_warrunner.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/centaur_warrunner.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/centaur_warrunner_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -144
+      }
+    },
+    "Chaos Knight": {
+      "img": "https://dotapicker.com/assets/img/heroes/chaos_knight.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/chaos_knight.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/chaos_knight.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/chaos_knight_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -144
+      }
+    },
+    "Chen": {
+      "img": "https://dotapicker.com/assets/img/heroes/chen.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/chen.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/chen.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/chen_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -144
+      }
+    },
+    "Clinkz": {
+      "img": "https://dotapicker.com/assets/img/heroes/clinkz.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/clinkz.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/clinkz.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/clinkz_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -144
+      }
+    },
+    "Clockwerk": {
+      "img": "https://dotapicker.com/assets/img/heroes/clockwerk.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/clockwerk.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/clockwerk.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/clockwerk_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -144
+      }
+    },
+    "Crystal Maiden": {
+      "img": "https://dotapicker.com/assets/img/heroes/crystal_maiden.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/crystal_maiden.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/crystal_maiden.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/crystal_maiden_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -288
+      }
+    },
+    "Dark Seer": {
+      "img": "https://dotapicker.com/assets/img/heroes/dark_seer.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/dark_seer.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/dark_seer.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/dark_seer_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -288
+      }
+    },
+    "Dazzle": {
+      "img": "https://dotapicker.com/assets/img/heroes/dazzle.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/dazzle.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/dazzle.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/dazzle_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -288
+      }
+    },
+    "Death Prophet": {
+      "img": "https://dotapicker.com/assets/img/heroes/death_prophet.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/death_prophet.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/death_prophet.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/death_prophet_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -288
+      }
+    },
+    "Disruptor": {
+      "img": "https://dotapicker.com/assets/img/heroes/disruptor.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/disruptor.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/disruptor.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/disruptor_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -288
+      }
+    },
+    "Doom": {
+      "img": "https://dotapicker.com/assets/img/heroes/doom.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/doom.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/doom.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/doom_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -288
+      }
+    },
+    "Dragon Knight": {
+      "img": "https://dotapicker.com/assets/img/heroes/dragon_knight.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/dragon_knight.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/dragon_knight.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/dragon_knight_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -288
+      }
+    },
+    "Drow Ranger": {
+      "img": "https://dotapicker.com/assets/img/heroes/drow_ranger.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/drow_ranger.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/drow_ranger.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/drow_ranger_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -288
+      }
+    },
+    "Earthshaker": {
+      "img": "https://dotapicker.com/assets/img/heroes/earthshaker.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/earthshaker.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/earthshaker.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/earthshaker_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -432
+      }
+    },
+    "Earth Spirit": {
+      "img": "https://dotapicker.com/assets/img/heroes/earth_spirit.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/earth_spirit.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/earth_spirit.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/earth_spirit_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -288
+      }
+    },
+    "Elder Titan": {
+      "img": "https://dotapicker.com/assets/img/heroes/elder_titan.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/elder_titan.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/elder_titan.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/elder_titan_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -432
+      }
+    },
+    "Ember Spirit": {
+      "img": "https://dotapicker.com/assets/img/heroes/ember_spirit.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/ember_spirit.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/ember_spirit.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/ember_spirit_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -432
+      }
+    },
+    "Enchantress": {
+      "img": "https://dotapicker.com/assets/img/heroes/enchantress.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/enchantress.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/enchantress.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/enchantress_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -432
+      }
+    },
+    "Enigma": {
+      "img": "https://dotapicker.com/assets/img/heroes/enigma.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/enigma.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/enigma.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/enigma_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -432
+      }
+    },
+    "Faceless Void": {
+      "img": "https://dotapicker.com/assets/img/heroes/faceless_void.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/faceless_void.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/faceless_void.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/faceless_void_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -432
+      }
+    },
+    "Gyrocopter": {
+      "img": "https://dotapicker.com/assets/img/heroes/gyrocopter.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/gyrocopter.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/gyrocopter.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/gyrocopter_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -432
+      }
+    },
+    "Huskar": {
+      "img": "https://dotapicker.com/assets/img/heroes/huskar.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/huskar.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/huskar.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/huskar_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -432
+      }
+    },
+    "Invoker": {
+      "img": "https://dotapicker.com/assets/img/heroes/invoker.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/invoker.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/invoker.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/invoker_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -432
+      }
+    },
+    "Io": {
+      "img": "https://dotapicker.com/assets/img/heroes/io.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/io.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/io.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/io_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -432
+      }
+    },
+    "Jakiro": {
+      "img": "https://dotapicker.com/assets/img/heroes/jakiro.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/jakiro.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/jakiro.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/jakiro_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -576
+      }
+    },
+    "Juggernaut": {
+      "img": "https://dotapicker.com/assets/img/heroes/juggernaut.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/juggernaut.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/juggernaut.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/juggernaut_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -576
+      }
+    },
+    "Keeper of the Light": {
+      "img": "https://dotapicker.com/assets/img/heroes/keeper_of_the_light.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/keeper_of_the_light.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/keeper_of_the_light.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/keeper_of_the_light_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -576
+      }
+    },
+    "Kunkka": {
+      "img": "https://dotapicker.com/assets/img/heroes/kunkka.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/kunkka.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/kunkka.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/kunkka_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -576
+      }
+    },
+    "Legion Commander": {
+      "img": "https://dotapicker.com/assets/img/heroes/legion_commander.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/legion_commander.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/legion_commander.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/legion_commander_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -576
+      }
+    },
+    "Leshrac": {
+      "img": "https://dotapicker.com/assets/img/heroes/leshrac.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/leshrac.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/leshrac.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/leshrac_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -576
+      }
+    },
+    "Lich": {
+      "img": "https://dotapicker.com/assets/img/heroes/lich.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/lich.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/lich.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/lich_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -576
+      }
+    },
+    "Lifestealer": {
+      "img": "https://dotapicker.com/assets/img/heroes/lifestealer.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/lifestealer.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/lifestealer.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/lifestealer_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -576
+      }
+    },
+    "Lina": {
+      "img": "https://dotapicker.com/assets/img/heroes/lina.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/lina.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/lina.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/lina_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -576
+      }
+    },
+    "Lion": {
+      "img": "https://dotapicker.com/assets/img/heroes/lion.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/lion.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/lion.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/lion_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -576
+      }
+    },
+    "Lone Druid": {
+      "img": "https://dotapicker.com/assets/img/heroes/lone_druid.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/lone_druid.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/lone_druid.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/lone_druid_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -720
+      }
+    },
+    "Luna": {
+      "img": "https://dotapicker.com/assets/img/heroes/luna.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/luna.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/luna.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/luna_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -720
+      }
+    },
+    "Lycan": {
+      "img": "https://dotapicker.com/assets/img/heroes/lycan.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/lycan.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/lycan.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/lycan_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -720
+      }
+    },
+    "Magnus": {
+      "img": "https://dotapicker.com/assets/img/heroes/magnus.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/magnus.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/magnus.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/magnus_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -720
+      }
+    },
+    "Medusa": {
+      "img": "https://dotapicker.com/assets/img/heroes/medusa.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/medusa.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/medusa.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/medusa_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -720
+      }
+    },
+    "Meepo": {
+      "img": "https://dotapicker.com/assets/img/heroes/meepo.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/meepo.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/meepo.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/meepo_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -720
+      }
+    },
+    "Mirana": {
+      "img": "https://dotapicker.com/assets/img/heroes/mirana.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/mirana.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/mirana.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/mirana_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -720
+      }
+    },
+    "Morphling": {
+      "img": "https://dotapicker.com/assets/img/heroes/morphling.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/morphling.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/morphling.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/morphling_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -720
+      }
+    },
+    "Naga Siren": {
+      "img": "https://dotapicker.com/assets/img/heroes/naga_siren.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/naga_siren.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/naga_siren.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/naga_siren_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -720
+      }
+    },
+    "Natures Prophet": {
+      "img": "https://dotapicker.com/assets/img/heroes/natures_prophet.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/natures_prophet.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/natures_prophet.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/natures_prophet_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -864
+      }
+    },
+    "Necrophos": {
+      "img": "https://dotapicker.com/assets/img/heroes/necrophos.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/necrophos.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/necrophos.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/necrophos_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -864
+      }
+    },
+    "Night Stalker": {
+      "img": "https://dotapicker.com/assets/img/heroes/night_stalker.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/night_stalker.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/night_stalker.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/night_stalker_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -864
+      }
+    },
+    "Nyx Assassin": {
+      "img": "https://dotapicker.com/assets/img/heroes/nyx_assassin.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/nyx_assassin.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/nyx_assassin.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/nyx_assassin_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -864
+      }
+    },
+    "Ogre Magi": {
+      "img": "https://dotapicker.com/assets/img/heroes/ogre_magi.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/ogre_magi.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/ogre_magi.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/ogre_magi_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -864
+      }
+    },
+    "Omniknight": {
+      "img": "https://dotapicker.com/assets/img/heroes/omniknight.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/omniknight.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/omniknight.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/omniknight_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -864
+      }
+    },
+    "Oracle": {
+      "img": "https://dotapicker.com/assets/img/heroes/oracle.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/oracle.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/oracle.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/oracle_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -864
+      }
+    },
+    "Outworld Devourer": {
+      "img": "https://dotapicker.com/assets/img/heroes/outworld_devourer.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/outworld_devourer.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/outworld_devourer.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/outworld_devourer_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -864
+      }
+    },
+    "Phantom Assassin": {
+      "img": "https://dotapicker.com/assets/img/heroes/phantom_assassin.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/phantom_assassin.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/phantom_assassin.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/phantom_assassin_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -864
+      }
+    },
+    "Phantom Lancer": {
+      "img": "https://dotapicker.com/assets/img/heroes/phantom_lancer.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/phantom_lancer.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/phantom_lancer.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/phantom_lancer_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -1008
+      }
+    },
+    "Phoenix": {
+      "img": "https://dotapicker.com/assets/img/heroes/phoenix.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/phoenix.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/phoenix.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/phoenix_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -1008
+      }
+    },
+    "Puck": {
+      "img": "https://dotapicker.com/assets/img/heroes/puck.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/puck.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/puck.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/puck_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -1008
+      }
+    },
+    "Pudge": {
+      "img": "https://dotapicker.com/assets/img/heroes/pudge.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/pudge.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/pudge.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/pudge_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -1008
+      }
+    },
+    "Pugna": {
+      "img": "https://dotapicker.com/assets/img/heroes/pugna.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/pugna.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/pugna.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/pugna_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -1008
+      }
+    },
+    "Queen of Pain": {
+      "img": "https://dotapicker.com/assets/img/heroes/queen_of_pain.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/queen_of_pain.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/queen_of_pain.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/queen_of_pain_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -1008
+      }
+    },
+    "Razor": {
+      "img": "https://dotapicker.com/assets/img/heroes/razor.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/razor.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/razor.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/razor_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -1008
+      }
+    },
+    "Riki": {
+      "img": "https://dotapicker.com/assets/img/heroes/riki.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/riki.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/riki.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/riki_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -1008
+      }
+    },
+    "Rubick": {
+      "img": "https://dotapicker.com/assets/img/heroes/rubick.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/rubick.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/rubick.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/rubick_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -1008
+      }
+    },
+    "Sand King": {
+      "img": "https://dotapicker.com/assets/img/heroes/sand_king.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/sand_king.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/sand_king.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/sand_king_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -1008
+      }
+    },
+    "Shadow Demon": {
+      "img": "https://dotapicker.com/assets/img/heroes/shadow_demon.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/shadow_demon.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/shadow_demon.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/shadow_demon_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -1152
+      }
+    },
+    "Shadow Fiend": {
+      "img": "https://dotapicker.com/assets/img/heroes/shadow_fiend.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/shadow_fiend.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/shadow_fiend.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/shadow_fiend_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -1152
+      }
+    },
+    "Shadow Shaman": {
+      "img": "https://dotapicker.com/assets/img/heroes/shadow_shaman.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/shadow_shaman.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/shadow_shaman.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/shadow_shaman_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -1152
+      }
+    },
+    "Silencer": {
+      "img": "https://dotapicker.com/assets/img/heroes/silencer.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/silencer.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/silencer.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/silencer_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -1152
+      }
+    },
+    "Skywrath Mage": {
+      "img": "https://dotapicker.com/assets/img/heroes/skywrath_mage.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/skywrath_mage.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/skywrath_mage.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/skywrath_mage_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -1152
+      }
+    },
+    "Slardar": {
+      "img": "https://dotapicker.com/assets/img/heroes/slardar.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/slardar.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/slardar.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/slardar_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -1152
+      }
+    },
+    "Slark": {
+      "img": "https://dotapicker.com/assets/img/heroes/slark.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/slark.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/slark.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/slark_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -1152
+      }
+    },
+    "Sniper": {
+      "img": "https://dotapicker.com/assets/img/heroes/sniper.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/sniper.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/sniper.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/sniper_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -1152
+      }
+    },
+    "Spectre": {
+      "img": "https://dotapicker.com/assets/img/heroes/spectre.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/spectre.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/spectre.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/spectre_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -1152
+      }
+    },
+    "Spirit Breaker": {
+      "img": "https://dotapicker.com/assets/img/heroes/spirit_breaker.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/spirit_breaker.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/spirit_breaker.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/spirit_breaker_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -1152
+      }
+    },
+    "Storm Spirit": {
+      "img": "https://dotapicker.com/assets/img/heroes/storm_spirit.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/storm_spirit.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/storm_spirit.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/storm_spirit_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -1296
+      }
+    },
+    "Sven": {
+      "img": "https://dotapicker.com/assets/img/heroes/sven.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/sven.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/sven.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/sven_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -1296
+      }
+    },
+    "Techies": {
+      "img": "https://dotapicker.com/assets/img/heroes/techies.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/techies.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/techies.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/techies_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -1296
+      }
+    },
+    "Templar Assassin": {
+      "img": "https://dotapicker.com/assets/img/heroes/templar_assassin.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/templar_assassin.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/templar_assassin.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/templar_assassin_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -1296
+      }
+    },
+    "Terrorblade": {
+      "img": "https://dotapicker.com/assets/img/heroes/terrorblade.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/terrorblade.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/terrorblade.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/terrorblade_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -1296
+      }
+    },
+    "Tidehunter": {
+      "img": "https://dotapicker.com/assets/img/heroes/tidehunter.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/tidehunter.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/tidehunter.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/tidehunter_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -1296
+      }
+    },
+    "Timbersaw": {
+      "img": "https://dotapicker.com/assets/img/heroes/timbersaw.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/timbersaw.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/timbersaw.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/timbersaw_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -1296
+      }
+    },
+    "Tinker": {
+      "img": "https://dotapicker.com/assets/img/heroes/tinker.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/tinker.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/tinker.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/tinker_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -1296
+      }
+    },
+    "Tiny": {
+      "img": "https://dotapicker.com/assets/img/heroes/tiny.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/tiny.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/tiny.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/tiny_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -1296
+      }
+    },
+    "Treant Protector": {
+      "img": "https://dotapicker.com/assets/img/heroes/treant_protector.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/treant_protector.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/treant_protector.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/treant_protector_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -1296
+      }
+    },
+    "Troll Warlord": {
+      "img": "https://dotapicker.com/assets/img/heroes/troll_warlord.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/troll_warlord.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/troll_warlord.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/troll_warlord_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -1440
+      }
+    },
+    "Tusk": {
+      "img": "https://dotapicker.com/assets/img/heroes/tusk.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/tusk.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/tusk.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/tusk_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -1440
+      }
+    },
+    "Undying": {
+      "img": "https://dotapicker.com/assets/img/heroes/undying.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/undying.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/undying.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/undying_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -1440
+      }
+    },
+    "Ursa": {
+      "img": "https://dotapicker.com/assets/img/heroes/ursa.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/ursa.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/ursa.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/ursa_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -1440
+      }
+    },
+    "Vengeful Spirit": {
+      "img": "https://dotapicker.com/assets/img/heroes/vengeful_spirit.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/vengeful_spirit.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/vengeful_spirit.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/vengeful_spirit_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -1440
+      }
+    },
+    "Venomancer": {
+      "img": "https://dotapicker.com/assets/img/heroes/venomancer.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/venomancer.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/venomancer.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/venomancer_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -1440
+      }
+    },
+    "Viper": {
+      "img": "https://dotapicker.com/assets/img/heroes/viper.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/viper.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/viper.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/viper_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -1440
+      }
+    },
+    "Visage": {
+      "img": "https://dotapicker.com/assets/img/heroes/visage.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/visage.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/visage.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/visage_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -1440
+      }
+    },
+    "Warlock": {
+      "img": "https://dotapicker.com/assets/img/heroes/warlock.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/warlock.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/warlock.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/warlock_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -1440
+      }
+    },
+    "Weaver": {
+      "img": "https://dotapicker.com/assets/img/heroes/weaver.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/weaver.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/weaver.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/weaver_icon.png",
+      "spritelarge": {
+        "x": -2304,
+        "y": -1440
+      }
+    },
+    "Windranger": {
+      "img": "https://dotapicker.com/assets/img/heroes/windranger.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/windranger.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/windranger.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/windranger_icon.png",
+      "spritelarge": {
+        "x": 0,
+        "y": -1584
+      }
+    },
+    "Winter Wyvern": {
+      "img": "https://dotapicker.com/assets/img/heroes/winter_wyvern.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/winter_wyvern.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/winter_wyvern.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/winter_wyvern_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": -1584
+      }
+    },
+    "Witch Doctor": {
+      "img": "https://dotapicker.com/assets/img/heroes/witch_doctor.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/witch_doctor.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/witch_doctor.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/witch_doctor_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -1584
+      }
+    },
+    "Wraith King": {
+      "img": "https://dotapicker.com/assets/img/heroes/wraith_king.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/wraith_king.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/wraith_king.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/wraith_king_icon.png",
+      "spritelarge": {
+        "x": -768,
+        "y": -1584
+      }
+    },
+    "Zeus": {
+      "img": "https://dotapicker.com/assets/img/heroes/zeus.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/zeus.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/zeus.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/zeus_icon.png",
+      "spritelarge": {
+        "x": -1024,
+        "y": -1584
+      }
+    },
+    "Arc Warden": {
+      "img": "https://dotapicker.com/assets/img/heroes/arc_warden.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/arc_warden.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/arc_warden.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/arc_warden_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": 0
+      }
+    },
+    "Underlord": {
+      "img": "https://dotapicker.com/assets/img/heroes/abyssal_underlord.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/abyssal_underlord.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/abyssal_underlord.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/abyssal_underlord_icon.png",
+      "spritelarge": {
+        "x": -256,
+        "y": 0
+      }
+    },
+    "Monkey King": {
+      "img": "https://dotapicker.com/assets/img/heroes/monkey_king.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/monkey_king.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/monkey_king.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/monkey_king_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -720
+      }
+    },
+    "Pangolier": {
+      "img": "https://dotapicker.com/assets/img/heroes/pangolier.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/pangolier.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/pangolier.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/pangolier_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -864
+      }
+    },
+    "Dark Willow": {
+      "img": "https://dotapicker.com/assets/img/heroes/dark_willow.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/dark_willow.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/dark_willow.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/dark_willow_icon.png",
+      "spritelarge": {
+        "x": -512,
+        "y": -288
+      }
+    },
+    "Grimstroke": {
+      "img": "https://dotapicker.com/assets/img/heroes/grimstroke.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/grimstroke.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/grimstroke.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/grimstroke_icon.png",
+      "spritelarge": {
+        "x": -1280,
+        "y": -1584
+      }
+    },
+    "Mars": {
+      "img": "https://dotapicker.com/assets/img/heroes/mars.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/mars.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/mars.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/mars_icon.png",
+      "spritelarge": {
+        "x": -1536,
+        "y": -1584
+      }
+    },
+    "Void Spirit": {
+      "img": "https://dotapicker.com/assets/img/heroes/void_spirit.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/void_spirit.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/void_spirit.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/void_spirit_icon.png",
+      "spritelarge": {
+        "x": -2048,
+        "y": -1584
+      }
+    },
+    "Snapfire": {
+      "img": "https://dotapicker.com/assets/img/heroes/snapfire.jpg",
+      "imgsmall": "https://dotapicker.com/assets/img/heroes/snapfire.jpg",
+      "imglarge": "https://dotapicker.com/assets/img/heroes_large/snapfire.jpg",
+      "icon": "https://dotapicker.com/assets/img/heroicons/snapfire_icon.png",
+      "spritelarge": {
+        "x": -1792,
+        "y": -1584
+      }
+    }
+  },
+  "gridposition": {
+    "Abaddon": 2,
+    "Alchemist": 1,
+    "Ancient Apparition": 6,
+    "Anti-Mage": 3,
+    "Axe": 2,
+    "Bane": 6,
+    "Batrider": 6,
+    "Beastmaster": 1,
+    "Bloodseeker": 4,
+    "Bounty Hunter": 3,
+    "Brewmaster": 1,
+    "Bristleback": 1,
+    "Broodmother": 4,
+    "Centaur Warrunner": 1,
+    "Chaos Knight": 2,
+    "Chen": 5,
+    "Clinkz": 4,
+    "Clockwerk": 1,
+    "Crystal Maiden": 5,
+    "Dark Seer": 6,
+    "Dazzle": 6,
+    "Death Prophet": 6,
+    "Disruptor": 5,
+    "Doom": 2,
+    "Dragon Knight": 1,
+    "Drow Ranger": 3,
+    "Earthshaker": 1,
+    "Earth Spirit": 1,
+    "Elder Titan": 1,
+    "Ember Spirit": 3,
+    "Enchantress": 5,
+    "Enigma": 6,
+    "Faceless Void": 4,
+    "Gyrocopter": 3,
+    "Huskar": 1,
+    "Invoker": 6,
+    "Io": 1,
+    "Jakiro": 5,
+    "Juggernaut": 3,
+    "Keeper of the Light": 5,
+    "Kunkka": 1,
+    "Legion Commander": 1,
+    "Leshrac": 6,
+    "Lich": 6,
+    "Lifestealer": 2,
+    "Lina": 5,
+    "Lion": 6,
+    "Lone Druid": 3,
+    "Luna": 3,
+    "Lycan": 2,
+    "Magnus": 2,
+    "Medusa": 4,
+    "Meepo": 4,
+    "Mirana": 3,
+    "Morphling": 3,
+    "Naga Siren": 3,
+    "Natures Prophet": 5,
+    "Necrophos": 6,
+    "Night Stalker": 2,
+    "Nyx Assassin": 4,
+    "Ogre Magi": 5,
+    "Omniknight": 1,
+    "Oracle": 5,
+    "Outworld Devourer": 6,
+    "Phantom Assassin": 4,
+    "Phantom Lancer": 3,
+    "Phoenix": 1,
+    "Puck": 5,
+    "Pudge": 2,
+    "Pugna": 6,
+    "Queen of Pain": 6,
+    "Razor": 4,
+    "Riki": 3,
+    "Rubick": 5,
+    "Sand King": 2,
+    "Shadow Demon": 6,
+    "Shadow Fiend": 4,
+    "Shadow Shaman": 5,
+    "Silencer": 5,
+    "Skywrath Mage": 5,
+    "Slardar": 2,
+    "Slark": 4,
+    "Sniper": 3,
+    "Spectre": 4,
+    "Spirit Breaker": 2,
+    "Storm Spirit": 5,
+    "Sven": 1,
+    "Techies": 5,
+    "Templar Assassin": 3,
+    "Terrorblade": 4,
+    "Tidehunter": 2,
+    "Timbersaw": 1,
+    "Tinker": 5,
+    "Tiny": 1,
+    "Treant Protector": 1,
+    "Troll Warlord": 3,
+    "Tusk": 1,
+    "Undying": 2,
+    "Ursa": 3,
+    "Vengeful Spirit": 3,
+    "Venomancer": 4,
+    "Viper": 4,
+    "Visage": 6,
+    "Warlock": 6,
+    "Weaver": 4,
+    "Windranger": 5,
+    "Winter Wyvern": 6,
+    "Witch Doctor": 6,
+    "Wraith King": 2,
+    "Zeus": 5,
+    "Arc Warden": 4,
+    "Underlord": 2,
+    "Monkey King": 3,
+    "Pangolier": 3,
+    "Dark Willow": 5,
+    "Grimstroke": 6,
+    "Mars": 1,
+    "Void Spirit": 5,
+    "Snapfire": 1
+  },
+  "valveids": {
+    "Abaddon": 102,
+    "Alchemist": 73,
+    "Ancient Apparition": 68,
+    "Anti-Mage": 1,
+    "Axe": 2,
+    "Bane": 3,
+    "Batrider": 65,
+    "Beastmaster": 38,
+    "Bloodseeker": 4,
+    "Bounty Hunter": 62,
+    "Brewmaster": 78,
+    "Bristleback": 99,
+    "Broodmother": 61,
+    "Centaur Warrunner": 96,
+    "Chaos Knight": 81,
+    "Chen": 66,
+    "Clinkz": 56,
+    "Clockwerk": 51,
+    "Crystal Maiden": 5,
+    "Dark Seer": 55,
+    "Dazzle": 50,
+    "Death Prophet": 43,
+    "Disruptor": 87,
+    "Doom": 69,
+    "Dragon Knight": 49,
+    "Drow Ranger": 6,
+    "Earthshaker": 7,
+    "Earth Spirit": 107,
+    "Elder Titan": 103,
+    "Ember Spirit": 106,
+    "Enchantress": 58,
+    "Enigma": 33,
+    "Faceless Void": 41,
+    "Gyrocopter": 72,
+    "Huskar": 59,
+    "Invoker": 74,
+    "Io": 91,
+    "Jakiro": 64,
+    "Juggernaut": 8,
+    "Keeper of the Light": 90,
+    "Kunkka": 23,
+    "Legion Commander": 104,
+    "Leshrac": 52,
+    "Lich": 31,
+    "Lifestealer": 54,
+    "Lina": 25,
+    "Lion": 26,
+    "Lone Druid": 80,
+    "Luna": 48,
+    "Lycan": 77,
+    "Magnus": 97,
+    "Medusa": 94,
+    "Meepo": 82,
+    "Mirana": 9,
+    "Morphling": 10,
+    "Naga Siren": 89,
+    "Natures Prophet": 53,
+    "Necrophos": 36,
+    "Night Stalker": 60,
+    "Nyx Assassin": 88,
+    "Ogre Magi": 84,
+    "Omniknight": 57,
+    "Oracle": 111,
+    "Outworld Devourer": 76,
+    "Phantom Assassin": 44,
+    "Phantom Lancer": 12,
+    "Phoenix": 110,
+    "Puck": 13,
+    "Pudge": 14,
+    "Pugna": 45,
+    "Queen of Pain": 39,
+    "Razor": 15,
+    "Riki": 32,
+    "Rubick": 86,
+    "Sand King": 16,
+    "Shadow Demon": 79,
+    "Shadow Fiend": 11,
+    "Shadow Shaman": 27,
+    "Silencer": 75,
+    "Skywrath Mage": 101,
+    "Slardar": 28,
+    "Slark": 93,
+    "Sniper": 35,
+    "Spectre": 67,
+    "Spirit Breaker": 71,
+    "Storm Spirit": 17,
+    "Sven": 18,
+    "Techies": 105,
+    "Templar Assassin": 46,
+    "Terrorblade": 109,
+    "Tidehunter": 29,
+    "Timbersaw": 98,
+    "Tinker": 34,
+    "Tiny": 19,
+    "Treant Protector": 83,
+    "Troll Warlord": 95,
+    "Tusk": 100,
+    "Undying": 85,
+    "Ursa": 70,
+    "Vengeful Spirit": 20,
+    "Venomancer": 40,
+    "Viper": 47,
+    "Visage": 92,
+    "Warlock": 37,
+    "Weaver": 63,
+    "Windranger": 21,
+    "Winter Wyvern": 112,
+    "Witch Doctor": 30,
+    "Wraith King": 42,
+    "Zeus": 22,
+    "Arc Warden": 113,
+    "Underlord": 108,
+    "Monkey King": 114,
+    "Pangolier": 120,
+    "Dark Willow": 119,
+    "Grimstroke": 121,
+    "Mars": 129,
+    "Void Spirit": 126,
+    "Snapfire": 128
+  },
+  "availableRoleTypes": [
+    {
+      "name": "coreutil",
+      "display": "Lineup"
+    },
+    {
+      "name": "lanes",
+      "display": "Lanes"
+    },
+    {
+      "name": "roles",
+      "display": "Roles"
+    }
+  ],
+  "availableRoles": [
+    {
+      "name": "Core",
+      "role": "Core",
+      "type": "coreutil",
+      "img": "https://dotapicker.com/assets/img/icons/cucore.png",
+      "tutorial": {
+        "title": "Core",
+        "text": "high impact heroes which scale with xp or farm"
+      }
+    },
+    {
+      "name": "Utility",
+      "role": "Utility",
+      "type": "coreutil",
+      "img": "https://dotapicker.com/assets/img/icons/cuutility.png",
+      "tutorial": {
+        "title": "Utility",
+        "text": "can focus more on gaining an advantage for the team and less on amassing gold"
+      }
+    },
+    {
+      "name": "Carry",
+      "role": "SafelaneCarry",
+      "type": "lanes",
+      "img": "https://dotapicker.com/assets/img/icons/lanesafecarry.png",
+      "tutorial": {
+        "title": "Safelane Farmer",
+        "text": "can farm the safe lane in the laning stage"
+      }
+    },
+    {
+      "name": "Support",
+      "role": "LaneSupport",
+      "type": "lanes",
+      "img": "https://dotapicker.com/assets/img/icons/lanesafesupp.png",
+      "tutorial": {
+        "title": "Safelane Support",
+        "text": "can protect the safe lane carry in the laning stage"
+      }
+    },
+    {
+      "name": "Mid",
+      "role": "Mid",
+      "type": "lanes",
+      "img": "https://dotapicker.com/assets/img/icons/lanemid.png",
+      "tutorial": {
+        "title": "Mid Lane",
+        "text": "can properly take the mid lane in the laning stage"
+      }
+    },
+    {
+      "name": "Offlane",
+      "role": "Offlane",
+      "type": "lanes",
+      "img": "https://dotapicker.com/assets/img/icons/laneofflane.png",
+      "tutorial": {
+        "title": "Offlane",
+        "text": "can properly take the off lane in the laning stage"
+      }
+    },
+    {
+      "name": "Jungler",
+      "role": "Jungler",
+      "type": "lanes",
+      "img": "https://dotapicker.com/assets/img/icons/lanejungle.png",
+      "tutorial": {
+        "title": "Jungler",
+        "text": "can farm the jungle camps early in the game"
+      }
+    },
+    {
+      "name": "Roamer",
+      "role": "Roamer",
+      "type": "lanes",
+      "img": "https://dotapicker.com/assets/img/icons/laneroaming.png",
+      "tutorial": {
+        "title": "Roamer",
+        "text": "can roam for kills in the early game"
+      }
+    },
+    {
+      "name": "Carry",
+      "role": "RoleCarry",
+      "type": "roles",
+      "img": "https://dotapicker.com/assets/img/icons/rolecarry.png",
+      "tutorial": {
+        "title": "Carry",
+        "text": "gains great power with farm"
+      }
+    },
+    {
+      "name": "Support",
+      "role": "RoleSupport",
+      "type": "roles",
+      "img": "https://dotapicker.com/assets/img/icons/rolesupport.png",
+      "tutorial": {
+        "title": "Support",
+        "text": "can focus more on gaining an advantage for the team and less on amassing gold"
+      }
+    },
+    {
+      "name": "Nuker",
+      "role": "Nuker",
+      "type": "roles",
+      "img": "https://dotapicker.com/assets/img/icons/rolenuker.png",
+      "tutorial": {
+        "title": "Nuker",
+        "text": "has fast, strong or sustainable spell damage"
+      }
+    },
+    {
+      "name": "Disabler",
+      "role": "Disabler",
+      "type": "roles",
+      "img": "https://dotapicker.com/assets/img/icons/roledisabler.png",
+      "tutorial": {
+        "title": "Disabler",
+        "text": "can incapacitate enemy heroes"
+      }
+    },
+    {
+      "name": "Initiator",
+      "role": "Initiator",
+      "type": "roles",
+      "img": "https://dotapicker.com/assets/img/icons/roleinitiator.png",
+      "tutorial": {
+        "title": "Initiator",
+        "text": "good at starting a teamfight"
+      }
+    },
+    {
+      "name": "Pusher",
+      "role": "Pusher",
+      "type": "roles",
+      "img": "https://dotapicker.com/assets/img/icons/rolepusher.png",
+      "tutorial": {
+        "title": "Pusher",
+        "text": "can quickly destroy towers or barracks"
+      }
+    },
+    {
+      "name": "Ganker",
+      "role": "Ganker",
+      "type": "roles",
+      "img": "https://dotapicker.com/assets/img/icons/roleganker.png",
+      "tutorial": {
+        "title": "Ganker",
+        "text": "good at killing lonely enemies"
+      }
+    },
+    {
+      "name": "Durable",
+      "role": "Durable",
+      "type": "roles",
+      "img": "https://dotapicker.com/assets/img/icons/roledurable.png",
+      "tutorial": {
+        "title": "Durable",
+        "text": "lasts longer in teamfights"
+      }
+    }
+  ],
+  "description": {
+    "Abaddon": {
+      "heropedia": 133,
+      "atk": "melee",
+      "roles": [
+        "Durable",
+        "RoleSupport",
+        "Utility",
+        "LaneSupport",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Core",
+        "RoleCarry",
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 1,
+        "RoleCarry": 1,
+        "RoleSupport": 2,
+        "Melee": 1
+      }
+    },
+    "Alchemist": {
+      "heropedia": 22,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "RoleSupport",
+        "Disabler",
+        "Initiator",
+        "Durable",
+        "CounterPusher",
+        "Core",
+        "Utility",
+        "SafelaneCarry",
+        "Mid"
+      ],
+      "canRoles": [
+        "LaneSupport",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Ancient Apparition": {
+      "heropedia": 533,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "RoleSupport",
+        "CounterPusher",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane",
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Anti-Mage": {
+      "heropedia": 201,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Pusher",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 2,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Arc Warden": {
+      "heropedia": 341,
+      "atk": "range",
+      "roles": [
+        "RoleCarry",
+        "Pusher",
+        "Nuker",
+        "Core",
+        "Mid",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Nuker": 1,
+        "Escape": 2,
+        "RoleCarry": 2
+      }
+    },
+    "Axe": {
+      "heropedia": 101,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "Durable",
+        "CounterPusher",
+        "Utility",
+        "Jungler",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Core",
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 1,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Bane": {
+      "heropedia": 501,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane",
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Batrider": {
+      "heropedia": 532,
+      "atk": "ranged",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "Nuker",
+        "Ganker",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Mid",
+        "Jungler",
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 1,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 0,
+        "RoleSupport": 0
+      }
+    },
+    "Beastmaster": {
+      "heropedia": 11,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "Initiator",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "Core",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Mid",
+        "SafelaneCarry",
+        "LaneSupport",
+        "Jungler"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Bloodseeker": {
+      "heropedia": 301,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "Ganker",
+        "Core",
+        "Jungler"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane",
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 1,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Bounty Hunter": {
+      "heropedia": 224,
+      "atk": "melee",
+      "roles": [
+        "Ganker",
+        "RoleSupport",
+        "Utility",
+        "Offlane",
+        "Roamer"
+      ],
+      "canRoles": [
+        "Core"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 1,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Brewmaster": {
+      "heropedia": 23,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Durable",
+        "Ganker",
+        "Disabler",
+        "Core",
+        "Mid",
+        "Offlane"
+      ],
+      "canRoles": [
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 1,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Bristleback": {
+      "heropedia": 34,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "RoleCarry",
+        "Durable",
+        "Core",
+        "Offlane"
+      ],
+      "canRoles": [
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Broodmother": {
+      "heropedia": 321,
+      "atk": "melee",
+      "roles": [
+        "Pusher",
+        "Ganker",
+        "Nuker",
+        "Core",
+        "Offlane"
+      ],
+      "canRoles": [
+        "RoleCarry"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 1,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Centaur Warrunner": {
+      "heropedia": 32,
+      "atk": "melee",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "Initiator",
+        "Durable",
+        "Ganker",
+        "Core",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [
+        "SafelaneCarry",
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 0,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Chaos Knight": {
+      "heropedia": 124,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Disabler",
+        "Initiator",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Chen": {
+      "heropedia": 424,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Pusher",
+        "RoleSupport",
+        "Utility",
+        "Jungler"
+      ],
+      "canRoles": [
+        "Roamer",
+        "Offlane",
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 2,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Clinkz": {
+      "heropedia": 314,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "SafelaneCarry",
+        "Ganker",
+        "Core",
+        "Offlane",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Clockwerk": {
+      "heropedia": 13,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "Initiator",
+        "Ganker",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 0,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Crystal Maiden": {
+      "heropedia": 401,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "Jungler",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane",
+        "Roamer"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 2,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Dark Seer": {
+      "heropedia": 531,
+      "atk": "melee",
+      "roles": [
+        "Pusher",
+        "Initiator",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Jungler"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 1,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 0,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Dazzle": {
+      "heropedia": 523,
+      "atk": "ranged",
+      "roles": [
+        "RoleSupport",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Death Prophet": {
+      "heropedia": 521,
+      "atk": "ranged",
+      "roles": [
+        "Pusher",
+        "Nuker",
+        "CounterPusher",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [
+        "Utility",
+        "Offlane",
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 2,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 1
+      }
+    },
+    "Disruptor": {
+      "heropedia": 434,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Initiator",
+        "Disabler",
+        "RoleSupport",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane",
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Doom": {
+      "heropedia": 121,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Nuker",
+        "Disabler",
+        "Durable",
+        "Core",
+        "Offlane",
+        "Jungler"
+      ],
+      "canRoles": [
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 2,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Dragon Knight": {
+      "heropedia": 12,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Disabler",
+        "Pusher",
+        "Durable",
+        "Core",
+        "SafelaneCarry",
+        "Mid"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Drow Ranger": {
+      "heropedia": 202,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 1
+      }
+    },
+    "Earthshaker": {
+      "heropedia": 1,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "CounterPusher",
+        "Utility",
+        "LaneSupport",
+        "Roamer",
+        "Offlane"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2,
+        "Melee": 1
+      }
+    },
+    "Earth Spirit": {
+      "heropedia": 44,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "Initiator",
+        "CounterPusher",
+        "Nuker",
+        "Ganker",
+        "Utility",
+        "Core",
+        "Offlane",
+        "Roamer"
+      ],
+      "canRoles": [
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 2,
+        "RoleCarry": 0,
+        "RoleSupport": 2,
+        "Melee": 1
+      }
+    },
+    "Elder Titan": {
+      "heropedia": 42,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "Initiator",
+        "RoleSupport",
+        "CounterPusher",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Ember Spirit": {
+      "heropedia": 242,
+      "atk": "melee",
+      "roles": [
+        "Nuker",
+        "RoleCarry",
+        "Initiator",
+        "Core",
+        "SafelaneCarry",
+        "Mid"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Enchantress": {
+      "heropedia": 422,
+      "atk": "ranged",
+      "roles": [
+        "Pusher",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "Jungler",
+        "Roamer"
+      ],
+      "canRoles": [
+        "Core",
+        "Offlane",
+        "LaneSupport",
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 1,
+        "Jungler": 2,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 1
+      }
+    },
+    "Enigma": {
+      "heropedia": 511,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Initiator",
+        "Pusher",
+        "RoleSupport",
+        "CounterPusher",
+        "Ganker",
+        "Utility",
+        "Jungler"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 2,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Faceless Void": {
+      "heropedia": 311,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Initiator",
+        "Disabler",
+        "Core",
+        "SafelaneCarry",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Gyrocopter": {
+      "heropedia": 232,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "RoleCarry",
+        "Ganker",
+        "CounterPusher",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "LaneSupport",
+        "Mid",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Huskar": {
+      "heropedia": 21,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Durable",
+        "Ganker",
+        "Core",
+        "SafelaneCarry",
+        "Mid",
+        "Offlane"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 1
+      }
+    },
+    "Invoker": {
+      "heropedia": 534,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Initiator",
+        "Disabler",
+        "RoleCarry",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 1
+      }
+    },
+    "Io": {
+      "heropedia": 31,
+      "atk": "ranged",
+      "roles": [
+        "Ganker",
+        "RoleSupport",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane",
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 2,
+        "Escape": 1,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Jakiro": {
+      "heropedia": 423,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Pusher",
+        "Disabler",
+        "RoleSupport",
+        "CounterPusher",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane",
+        "Roamer"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Juggernaut": {
+      "heropedia": 203,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Keeper of the Light": {
+      "heropedia": 441,
+      "atk": "ranged",
+      "roles": [
+        "Pusher",
+        "Nuker",
+        "RoleSupport",
+        "CounterPusher",
+        "Utility",
+        "LaneSupport",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Jungler",
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Kunkka": {
+      "heropedia": 4,
+      "atk": "melee",
+      "roles": [
+        "Nuker",
+        "RoleCarry",
+        "Disabler",
+        "Initiator",
+        "CounterPusher",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [
+        "Offlane",
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Legion Commander": {
+      "heropedia": 43,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "RoleCarry",
+        "RoleSupport",
+        "Initiator",
+        "Ganker",
+        "Core",
+        "Jungler",
+        "Offlane"
+      ],
+      "canRoles": [
+        "SafelaneCarry",
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 2,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Leshrac": {
+      "heropedia": 524,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Pusher",
+        "Disabler",
+        "RoleSupport",
+        "Core",
+        "Utility",
+        "Mid"
+      ],
+      "canRoles": [
+        "LaneSupport",
+        "SafelaneCarry",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 2
+      }
+    },
+    "Lich": {
+      "heropedia": 502,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "RoleSupport",
+        "CounterPusher",
+        "Utility",
+        "LaneSupport",
+        "Offlane"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Lifestealer": {
+      "heropedia": 113,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "RoleCarry",
+        "Durable",
+        "Core",
+        "SafelaneCarry",
+        "Jungler"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 2,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Lina": {
+      "heropedia": 412,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "RoleSupport",
+        "Core",
+        "Utility",
+        "LaneSupport",
+        "Mid"
+      ],
+      "canRoles": [
+        "SafelaneCarry",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 2
+      }
+    },
+    "Lion": {
+      "heropedia": 503,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "Initiator",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "LaneSupport",
+        "Roamer"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Lone Druid": {
+      "heropedia": 233,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Pusher",
+        "Durable",
+        "Core",
+        "Jungler",
+        "Offlane"
+      ],
+      "canRoles": [
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 2,
+        "Jungler": 2,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Luna": {
+      "heropedia": 223,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Nuker",
+        "Pusher",
+        "CounterPusher",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Lycan": {
+      "heropedia": 123,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Pusher",
+        "Ganker",
+        "Core",
+        "Jungler",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 2,
+        "Durable": 1,
+        "Jungler": 2,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Magnus": {
+      "heropedia": 132,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "Nuker",
+        "Ganker",
+        "Core",
+        "Utility",
+        "Mid",
+        "Offlane"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 0,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Medusa": {
+      "heropedia": 333,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "CounterPusher",
+        "Durable",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Meepo": {
+      "heropedia": 324,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Disabler",
+        "Initiator",
+        "Nuker",
+        "Ganker",
+        "Core",
+        "Mid",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Jungler",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Mirana": {
+      "heropedia": 204,
+      "atk": "ranged",
+      "roles": [
+        "Initiator",
+        "RoleCarry",
+        "RoleSupport",
+        "Ganker",
+        "Disabler",
+        "Core",
+        "Utility",
+        "Mid",
+        "Offlane",
+        "Roamer"
+      ],
+      "canRoles": [
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 2,
+        "RoleCarry": 1,
+        "RoleSupport": 1
+      }
+    },
+    "Morphling": {
+      "heropedia": 211,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Disabler",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Utility",
+        "LaneSupport",
+        "Offlane",
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Naga Siren": {
+      "heropedia": 234,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Disabler",
+        "Pusher",
+        "Initiator",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Natures Prophet": {
+      "heropedia": 421,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Pusher",
+        "Ganker",
+        "Core",
+        "Jungler",
+        "Offlane"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 2,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 1,
+        "RoleSupport": 0
+      }
+    },
+    "Necrophos": {
+      "heropedia": 512,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "RoleSupport",
+        "Durable",
+        "Core",
+        "Utility",
+        "Offlane",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 2
+      }
+    },
+    "Night Stalker": {
+      "heropedia": 114,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Initiator",
+        "Ganker",
+        "Utility",
+        "Core",
+        "Offlane",
+        "Roamer"
+      ],
+      "canRoles": [
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 1,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Nyx Assassin": {
+      "heropedia": 331,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "Offlane",
+        "Roamer"
+      ],
+      "canRoles": [
+        "LaneSupport",
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 1,
+        "Escape": 2,
+        "RoleCarry": 0,
+        "RoleSupport": 2,
+        "Melee": 1
+      }
+    },
+    "Ogre Magi": {
+      "heropedia": 432,
+      "atk": "melee",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "RoleSupport",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2,
+        "Melee": 1
+      }
+    },
+    "Omniknight": {
+      "heropedia": 14,
+      "atk": "melee",
+      "roles": [
+        "RoleSupport",
+        "Durable",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2,
+        "Melee": 1
+      }
+    },
+    "Oracle": {
+      "heropedia": 443,
+      "atk": "ranged",
+      "roles": [
+        "RoleSupport",
+        "Nuker",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Outworld Devourer": {
+      "heropedia": 541,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "RoleCarry",
+        "Nuker",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 1
+      }
+    },
+    "Phantom Assassin": {
+      "heropedia": 312,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Phantom Lancer": {
+      "heropedia": 212,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Pusher",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 2,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Phoenix": {
+      "heropedia": 51,
+      "atk": "ranged",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Durable",
+        "Utility",
+        "Offlane",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 2,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Puck": {
+      "heropedia": 402,
+      "atk": "ranged",
+      "roles": [
+        "Initiator",
+        "Nuker",
+        "Disabler",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 0,
+        "RoleSupport": 0
+      }
+    },
+    "Pudge": {
+      "heropedia": 102,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "Durable",
+        "Ganker",
+        "Utility",
+        "Mid",
+        "Roamer"
+      ],
+      "canRoles": [
+        "Offlane",
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Pugna": {
+      "heropedia": 522,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "Pusher",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Core",
+        "Mid",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 2
+      }
+    },
+    "Queen of Pain": {
+      "heropedia": 514,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Ganker",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 1,
+        "RoleSupport": 0
+      }
+    },
+    "Razor": {
+      "heropedia": 303,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Nuker",
+        "Durable",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [
+        "SafelaneCarry",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 0
+      }
+    },
+    "Riki": {
+      "heropedia": 214,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Ganker",
+        "Core",
+        "Offlane",
+        "Roamer"
+      ],
+      "canRoles": [
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Rubick": {
+      "heropedia": 433,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Ganker",
+        "CounterPusher",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Sand King": {
+      "heropedia": 103,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "Initiator",
+        "Nuker",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "Jungler",
+        "Offlane"
+      ],
+      "canRoles": [
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 1,
+        "Nuker": 2,
+        "LaneSupport": 1,
+        "Escape": 1,
+        "RoleCarry": 0,
+        "RoleSupport": 2,
+        "Melee": 1
+      }
+    },
+    "Shadow Demon": {
+      "heropedia": 542,
+      "atk": "ranged",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Shadow Fiend": {
+      "heropedia": 302,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Nuker",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 0
+      }
+    },
+    "Shadow Shaman": {
+      "heropedia": 413,
+      "atk": "ranged",
+      "roles": [
+        "Pusher",
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "LaneSupport",
+        "Roamer"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Silencer": {
+      "heropedia": 431,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "RoleSupport",
+        "Disabler",
+        "Core",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane",
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 2
+      }
+    },
+    "Skywrath Mage": {
+      "heropedia": 442,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Mid",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Slardar": {
+      "heropedia": 104,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "RoleCarry",
+        "Initiator",
+        "Durable",
+        "Ganker",
+        "Core",
+        "Offlane"
+      ],
+      "canRoles": [
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Slark": {
+      "heropedia": 332,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Ganker",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Sniper": {
+      "heropedia": 221,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Core",
+        "SafelaneCarry",
+        "Mid"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 0
+      }
+    },
+    "Spectre": {
+      "heropedia": 323,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Durable",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Spirit Breaker": {
+      "heropedia": 122,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "Ganker",
+        "Core",
+        "Utility",
+        "Offlane",
+        "Roamer"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 1,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Storm Spirit": {
+      "heropedia": 403,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "RoleCarry",
+        "Initiator",
+        "Ganker",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 1,
+        "RoleSupport": 0
+      }
+    },
+    "Sven": {
+      "heropedia": 2,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "Initiator",
+        "RoleCarry",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 1,
+        "RoleCarry": 2,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Techies": {
+      "heropedia": 444,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "CounterPusher",
+        "Utility",
+        "Roamer",
+        "Offlane"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 1
+      }
+    },
+    "Templar Assassin": {
+      "heropedia": 222,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 1,
+        "RoleCarry": 1,
+        "RoleSupport": 0
+      }
+    },
+    "Terrorblade": {
+      "heropedia": 334,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Pusher",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Tidehunter": {
+      "heropedia": 110,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "RoleSupport",
+        "Durable",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2,
+        "Melee": 1
+      }
+    },
+    "Timbersaw": {
+      "heropedia": 33,
+      "atk": "melee",
+      "roles": [
+        "Nuker",
+        "Durable",
+        "CounterPusher",
+        "Core",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 0,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Tinker": {
+      "heropedia": 414,
+      "atk": "ranged",
+      "roles": [
+        "Initiator",
+        "RoleCarry",
+        "Nuker",
+        "Pusher",
+        "Ganker",
+        "CounterPusher",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 1,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 0
+      }
+    },
+    "Tiny": {
+      "heropedia": 3,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Disabler",
+        "Nuker",
+        "Initiator",
+        "Core",
+        "SafelaneCarry",
+        "Mid"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Treant Protector": {
+      "heropedia": 24,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Disabler",
+        "RoleSupport",
+        "Durable",
+        "Utility",
+        "LaneSupport",
+        "Offlane"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 2,
+        "Escape": 1,
+        "RoleCarry": 0,
+        "RoleSupport": 2,
+        "Melee": 1
+      }
+    },
+    "Troll Warlord": {
+      "heropedia": 241,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 1,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Tusk": {
+      "heropedia": 41,
+      "atk": "melee",
+      "roles": [
+        "Initiator",
+        "Ganker",
+        "Durable",
+        "CounterPusher",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Undying": {
+      "heropedia": 131,
+      "atk": "melee",
+      "roles": [
+        "Disabler",
+        "Initiator",
+        "Durable",
+        "RoleSupport",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Ursa": {
+      "heropedia": 231,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Ganker",
+        "Core",
+        "SafelaneCarry",
+        "Jungler"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 2,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 0,
+        "Melee": 1
+      }
+    },
+    "Vengeful Spirit": {
+      "heropedia": 213,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Initiator",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "LaneSupport",
+        "Roamer"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 2,
+        "Escape": 1,
+        "RoleCarry": 1,
+        "RoleSupport": 2
+      }
+    },
+    "Venomancer": {
+      "heropedia": 304,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Initiator",
+        "Pusher",
+        "RoleSupport",
+        "CounterPusher",
+        "Utility",
+        "LaneSupport",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Mid",
+        "Jungler"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 2,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 2
+      }
+    },
+    "Viper": {
+      "heropedia": 313,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Core",
+        "Offlane",
+        "Mid"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 1,
+        "RoleSupport": 0
+      }
+    },
+    "Visage": {
+      "heropedia": 543,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "RoleSupport",
+        "Durable",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 2,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 1,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Warlock": {
+      "heropedia": 513,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Initiator",
+        "Disabler",
+        "RoleSupport",
+        "Utility",
+        "LaneSupport",
+        "Offlane"
+      ],
+      "canRoles": [
+        "Mid"
+      ],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Weaver": {
+      "heropedia": 322,
+      "atk": "ranged",
+      "roles": [
+        "RoleCarry",
+        "Core",
+        "Offlane"
+      ],
+      "canRoles": [
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 0,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Windranger": {
+      "heropedia": 404,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "CounterPusher",
+        "Core",
+        "Utility",
+        "Offlane",
+        "Mid"
+      ],
+      "canRoles": [
+        "LaneSupport"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 2,
+        "Escape": 1,
+        "RoleCarry": 1,
+        "RoleSupport": 2
+      }
+    },
+    "Winter Wyvern": {
+      "heropedia": 544,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Ganker",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Witch Doctor": {
+      "heropedia": 504,
+      "atk": "ranged",
+      "roles": [
+        "Disabler",
+        "Nuker",
+        "RoleSupport",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Wraith King": {
+      "heropedia": 112,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Disabler",
+        "Durable",
+        "Core",
+        "SafelaneCarry",
+        "Jungler"
+      ],
+      "canRoles": [
+        "Utility",
+        "LaneSupport",
+        "RoleSupport"
+      ],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 1,
+        "Pusher": 1,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 1,
+        "Escape": 0,
+        "RoleCarry": 2,
+        "RoleSupport": 1,
+        "Melee": 1
+      }
+    },
+    "Zeus": {
+      "heropedia": 411,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Core",
+        "Mid"
+      ],
+      "canRoles": [
+        "Utility",
+        "RoleSupport",
+        "Offlane"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 0,
+        "Pusher": 1,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 1
+      }
+    },
+    "Underlord": {
+      "heropedia": 134,
+      "atk": "melee",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "Durable",
+        "RoleSupport",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 0,
+        "RoleSupport": 1
+      }
+    },
+    "Monkey King": {
+      "heropedia": 243,
+      "atk": "melee",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "Durable",
+        "RoleSupport",
+        "Utility",
+        "Offlane"
+      ],
+      "canRoles": [
+        "SafelaneCarry"
+      ],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 0,
+        "RoleSupport": 1
+      }
+    },
+    "Pangolier": {
+      "heropedia": 244,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Disabler",
+        "Durable",
+        "Nuker",
+        "Initiator",
+        "Core",
+        "SafelaneCarry"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 2,
+        "Disabler": 1,
+        "Pusher": 0,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 1,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Dark Willow": {
+      "heropedia": 451,
+      "atk": "melee",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "RoleSupport",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 2,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Grimstroke": {
+      "heropedia": 551,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "RoleSupport",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 0,
+        "Disabler": 2,
+        "Pusher": 0,
+        "Durable": 0,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 2,
+        "RoleCarry": 0,
+        "RoleSupport": 2
+      }
+    },
+    "Mars": {
+      "heropedia": 52,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "RoleSupport",
+        "Pusher",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 2,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 1
+      }
+    },
+    "Void Spirit": {
+      "heropedia": 452,
+      "atk": "melee",
+      "roles": [
+        "RoleCarry",
+        "Core",
+        "Nuker",
+        "Disabler"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 2,
+        "Durable": 1,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 0,
+        "Escape": 2,
+        "RoleCarry": 2,
+        "RoleSupport": 0
+      }
+    },
+    "Snapfire": {
+      "heropedia": 53,
+      "atk": "ranged",
+      "roles": [
+        "Nuker",
+        "Disabler",
+        "RoleSupport",
+        "Pusher",
+        "Utility",
+        "LaneSupport"
+      ],
+      "canRoles": [],
+      "stars": {
+        "Initiator": 1,
+        "Disabler": 2,
+        "Pusher": 2,
+        "Durable": 2,
+        "Jungler": 0,
+        "Nuker": 2,
+        "LaneSupport": 2,
+        "Escape": 0,
+        "RoleCarry": 0,
+        "RoleSupport": 1
+      }
+    }
+  },
+  "lookup": {
+    "Abaddon": [
+      "avernus"
+    ],
+    "Alchemist": [
+      "razzil"
+    ],
+    "Ancient Apparition": [
+      "kaldr",
+      "aa"
+    ],
+    "Anti-Mage": [
+      "am"
+    ],
+    "Arc Warden": [],
+    "Axe": [],
+    "Bane": [
+      "atropos"
+    ],
+    "Batrider": [
+      "br"
+    ],
+    "Beastmaster": [
+      "karroch",
+      "rexxar",
+      "bm"
+    ],
+    "Bloodseeker": [
+      "strygwyr",
+      "bs"
+    ],
+    "Bounty Hunter": [
+      "gondar",
+      "bh"
+    ],
+    "Brewmaster": [
+      "mangix",
+      "bm",
+      "panda"
+    ],
+    "Bristleback": [
+      "rigwarl",
+      "bb"
+    ],
+    "Broodmother": [
+      "bm"
+    ],
+    "Centaur Warrunner": [
+      "bradwarden",
+      "cw"
+    ],
+    "Chaos Knight": [
+      "ck"
+    ],
+    "Chen": [],
+    "Clinkz": [
+      "bone",
+      "bf",
+      "bone fletcher"
+    ],
+    "Clockwerk": [
+      "rattletrap",
+      "cw"
+    ],
+    "Crystal Maiden": [
+      "rylai",
+      "cm"
+    ],
+    "Dark Seer": [
+      "ish",
+      "ds"
+    ],
+    "Dazzle": [
+      "sp",
+      "shadow priest"
+    ],
+    "Death Prophet": [
+      "krobelus",
+      "grobulus",
+      "dp"
+    ],
+    "Disruptor": [],
+    "Doom": [],
+    "Dragon Knight": [
+      "davion",
+      "dk"
+    ],
+    "Drow Ranger": [
+      "traxex",
+      "dr"
+    ],
+    "Earthshaker": [
+      "raigor",
+      "es"
+    ],
+    "Earth Spirit": [
+      "kaolin",
+      "es"
+    ],
+    "Elder Titan": [
+      "et"
+    ],
+    "Ember Spirit": [
+      "xin",
+      "es"
+    ],
+    "Enchantress": [
+      "aiushtha"
+    ],
+    "Enigma": [],
+    "Faceless Void": [
+      "darkterror",
+      "fv"
+    ],
+    "Gyrocopter": [
+      "aurel"
+    ],
+    "Huskar": [],
+    "Invoker": [
+      "kael",
+      "karl",
+      "carl"
+    ],
+    "Io": [
+      "wisp"
+    ],
+    "Jakiro": [
+      "thd"
+    ],
+    "Juggernaut": [
+      "yurnero"
+    ],
+    "Keeper of the Light": [
+      "ezalor",
+      "kotl"
+    ],
+    "Kunkka": [],
+    "Legion Commander": [
+      "tresdin",
+      "lc"
+    ],
+    "Leshrac": [],
+    "Lich": [
+      "ethreain"
+    ],
+    "Lifestealer": [
+      "naix",
+      "ls"
+    ],
+    "Lina": [
+      "slayer"
+    ],
+    "Lion": [
+      "dm",
+      "demon witch"
+    ],
+    "Lone Druid": [
+      "sylla",
+      "ld"
+    ],
+    "Luna": [],
+    "Lycan": [
+      "banehallow"
+    ],
+    "Magnus": [],
+    "Medusa": [
+      "gorgon"
+    ],
+    "Meepo": [
+      "geomancer",
+      "gm"
+    ],
+    "Mirana": [
+      "potm"
+    ],
+    "Morphling": [],
+    "Naga Siren": [
+      "slithice",
+      "ns"
+    ],
+    "Natures Prophet": [
+      "furion",
+      "np"
+    ],
+    "Necrophos": [],
+    "Night Stalker": [
+      "ns",
+      "balanar"
+    ],
+    "Nyx Assassin": [
+      "na"
+    ],
+    "Ogre Magi": [
+      "aggron",
+      "om"
+    ],
+    "Omniknight": [
+      "ok"
+    ],
+    "Oracle": [],
+    "Outworld Devourer": [
+      "od",
+      "harbinger",
+      "obsidian destroyer"
+    ],
+    "Phantom Assassin": [
+      "pa",
+      "mortred"
+    ],
+    "Phantom Lancer": [
+      "azwraith",
+      "pl"
+    ],
+    "Phoenix": [
+      "icarus"
+    ],
+    "Puck": [],
+    "Pudge": [
+      "butcher"
+    ],
+    "Pugna": [],
+    "Queen of Pain": [
+      "akasha",
+      "qop"
+    ],
+    "Razor": [
+      "lr",
+      "lightning revenant"
+    ],
+    "Riki": [
+      "sa",
+      "stealth assassin"
+    ],
+    "Rubick": [
+      "gm",
+      "grand magus"
+    ],
+    "Sand King": [
+      "crixalis",
+      "sk"
+    ],
+    "Shadow Demon": [
+      "sd"
+    ],
+    "Shadow Fiend": [
+      "nevermore",
+      "sf"
+    ],
+    "Shadow Shaman": [
+      "rhasta",
+      "ss"
+    ],
+    "Silencer": [
+      "nortrom"
+    ],
+    "Skywrath Mage": [
+      "dragonus",
+      "sm"
+    ],
+    "Slardar": [
+      "slithereen guard",
+      "sg"
+    ],
+    "Slark": [],
+    "Sniper": [
+      "kardel",
+      "sharpeye",
+      "ks"
+    ],
+    "Spectre": [
+      "mercurial"
+    ],
+    "Spirit Breaker": [
+      "barathrum",
+      "sb",
+      "space cow"
+    ],
+    "Storm Spirit": [
+      "raijin",
+      "ss"
+    ],
+    "Sven": [
+      "rk",
+      "rogue knight"
+    ],
+    "Techies": [
+      "gt",
+      "goblin techies"
+    ],
+    "Templar Assassin": [
+      "lanaya",
+      "ta"
+    ],
+    "Terrorblade": [
+      "tb"
+    ],
+    "Tidehunter": [
+      "leviathan"
+    ],
+    "Timbersaw": [
+      "rizzrack",
+      "ts"
+    ],
+    "Tinker": [
+      "boush"
+    ],
+    "Tiny": [
+      "sg",
+      "stone giant"
+    ],
+    "Treant Protector": [
+      "rooftrellen",
+      "tree",
+      "tp"
+    ],
+    "Troll Warlord": [
+      "tw"
+    ],
+    "Tusk": [
+      "ymir"
+    ],
+    "Undying": [
+      "dirge"
+    ],
+    "Ursa": [
+      "fw",
+      "fuzzy wuzzy"
+    ],
+    "Vengeful Spirit": [
+      "shendelzare",
+      "vs"
+    ],
+    "Venomancer": [
+      "lesale"
+    ],
+    "Viper": [],
+    "Visage": [],
+    "Warlock": [
+      "demnok",
+      "wl"
+    ],
+    "Weaver": [
+      "skitskurr",
+      "nb",
+      "nerubian weaver"
+    ],
+    "Windranger": [
+      "lyralei",
+      "wr"
+    ],
+    "Winter Wyvern": [
+      "auroth",
+      "ww"
+    ],
+    "Witch Doctor": [
+      "zharvakko",
+      "wd"
+    ],
+    "Wraith King": [
+      "ostarion",
+      "skeleton king",
+      "wk",
+      "sk"
+    ],
+    "Zeus": [],
+    "Underlord": [
+      "ul"
+    ],
+    "Monkey King": [
+      "mk"
+    ],
+    "Pangolier": [],
+    "Dark Willow": [
+      "dw"
+    ],
+    "Grimstroke": [],
+    "Mars": [],
+    "Void Spirit": [],
+    "Snapfire": []
+  },
+  "vnames": {
+    "Anti-Mage": "antimage",
+    "Centaur Warrunner": "centaur",
+    "Clockwerk": "rattletrap",
+    "Doom": "doom_bringer",
+    "Io": "wisp",
+    "Lifestealer": "life_stealer",
+    "Magnus": "magnataur",
+    "Natures Prophet": "furion",
+    "Necrophos": "necrolyte",
+    "Outworld Devourer": "obsidian_destroyer",
+    "Queen of Pain": "queenofpain",
+    "Sand King": "sand_king",
+    "Shadow Fiend": "nevermore",
+    "Timbersaw": "shredder",
+    "Treant Protector": "treant",
+    "Vengeful Spirit": "vengefulspirit",
+    "Windranger": "windrunner",
+    "Wraith King": "skeleton_king",
+    "Zeus": "zuus",
+    "Underlord": "abyssal_underlord"
+  }
+}
