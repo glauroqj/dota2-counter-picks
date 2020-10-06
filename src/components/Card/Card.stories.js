@@ -1,9 +1,9 @@
 import React from 'react';
 
-import { Card } from './Card';
+import Card from './Card';
 
 export default {
-  title: 'Example/Card',
+  title: 'Card',
   component: Card,
   argTypes: {
     backgroundColor: { control: 'color' },
@@ -13,7 +13,7 @@ export default {
 const Template = (args) => <Card {...args} />;
 
 export const Base = Template.bind({});
-Primary.args = {
+Base.args = {
   primary: true,
   label: 'Button',
 };

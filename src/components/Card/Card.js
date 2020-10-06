@@ -6,7 +6,9 @@ import * as El from './Card.style'
 const Card = () => {
 
   return(
-    <El.CardContainer></El.CardContainer>
+    <El.CardContainer>
+      Card
+    </El.CardContainer>
   )
 }
 
