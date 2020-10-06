@@ -7,7 +7,10 @@ const Card = () => {
 
   return(
     <El.CardContainer>
-      Card
+      <El.CardImageContainer>
+
+      </El.CardImageContainer>
+      
     </El.CardContainer>
   )
 }
